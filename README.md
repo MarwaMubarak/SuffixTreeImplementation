@@ -1,0 +1,2 @@
+# SuffixTreeImplementation
+ Suffix Tree Implementation
